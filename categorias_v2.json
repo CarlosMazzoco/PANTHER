@@ -1,0 +1,28 @@
+{
+    "categorias": {
+        "cat_1": [
+            "palabara", "mas palabras"
+        ],
+        "cat_2": [
+        ],
+        "cat_3": [
+        ],
+        "cat_4": [
+        ],
+        "cat_5": [
+            "sinrespuesta", "sin_respuesta", "sin respuesta",
+            "no aplica", "na", "ninguno", "nada que decir", "sin comentarios"
+        ]
+    },
+    "pesos_categorias": {
+        "cat_1": 0.8,
+        "cat_2": 0.8,
+        "cat_3": 1.5,
+        "cat_4": 1.5,
+        "cat_5":1.4
+    },
+    "umbral_secundario": 0.65, 
+    "umbral_score_categoria": 0.1 
+}
+
+
